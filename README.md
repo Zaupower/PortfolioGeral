@@ -1,4 +1,4 @@
 # PortfolioGeral
-Este repositório contem o meu portfolio\
+Este repositório contêm o meu portfolio hospedado em cloud(heroku)
 
 Link : http://portfolio-marcelo.herokuapp.com/
